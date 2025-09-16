@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Frontend-Treasure/components/react/build/static/css/main.693f2cad.css",
+    "main.js": "/Frontend-Treasure/components/react/build/static/js/main.7087bd13.js",
+    "index.html": "/Frontend-Treasure/components/react/build/index.html",
+    "main.693f2cad.css.map": "/Frontend-Treasure/components/react/build/static/css/main.693f2cad.css.map",
+    "main.7087bd13.js.map": "/Frontend-Treasure/components/react/build/static/js/main.7087bd13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.693f2cad.css",
+    "static/js/main.7087bd13.js"
+  ]
+}
